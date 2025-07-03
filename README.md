@@ -9,7 +9,7 @@
     <span>📍 Nairobi, Kenya | 🎯 Building digital experiences at the intersection of code and design</span>
   </p>
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=500&lines=Full-stack+Developer;Award-winning+Photographer;Tech+Content+Creator;Open+Source+Contributor)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=500&lines=Front-End+Developer;Award-winning+Photographer;Tech+Content+Creator;Open+Source+Contributor)
 </div>
 
 ---
