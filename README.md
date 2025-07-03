@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 <div align="center">
   <a href="https://ronnieatok.netlify.app">
-    <img src="https://ibb.co/5XLhmCWx" width="220" style="border-radius: 50%; border: 4px solid #FF7F50; box-shadow: 0 8px 24px rgba(255,127,80,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='rotate(2deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
+    <img src="https://ibb.co/5XLhmCWx"
   </a>
   
   <h1 style="margin: 12px 0 6px 0;">Ronnie Atok</h1>
@@ -48,7 +48,7 @@
 ### **Web Development**
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; margin: 24px 0;">
 
-[![NS Luxe Shop](https://github-readme-stats.vercel.app/api/pin/?username=ronnieatok&repo=nsluxeshop&theme=radical&show_owner=true)](https://github.com/ronnieatok/nsluxeshop)
+[![NS Luxe Shop](https://nsluxeshop.com=nsluxeshop&theme=radical&show_owner=true)](https://github.com/ronnieatok/)
 [![Eliye Resort](https://github-readme-stats.vercel.app/api/pin/?username=ronnieatok&repo=eliyeresort&theme=radical&show_owner=true)](https://github.com/ronnieatok/eliyeresort)
 
 </div>
