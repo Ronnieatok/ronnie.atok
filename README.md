@@ -1,66 +1,81 @@
-# 👋 Hello, I'm Ronnie Atok
-
-**Web Developer | Photographer | Content Creator**  
-📍 Based in Nairobi, Kenya  
-💡 Passionate about merging technology with visual storytelling  
-
-## 🛠️ Technical Skills
-
-### Web Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-### Creative Tools
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-## 🌟 Featured Projects
-
-### Web Development
-- [NS Luxe Shop](https://github.com/ronnieatok/nsluxeshop) - Global e-commerce platform for luxury fashion
-- [Eliye Resort](https://github.com/ronnieatok/eliyeresort) - Hotel booking website with custom CMS
-- [BeepKenya](https://github.com/ronnieatok/beepkenya) - Kenya's leading automotive marketplace
-
-### Photography & Design
-- [Visual Alchemy](https://ronnieatok.myportfolio.com) - My photography portfolio
-- [Product Photography Series](https://dribbble.com/ronnieatok) - Commercial product shots
-
-## 🎙️ Podcast & Content
-
-🎧 [The Creative Process Podcast](https://linktr.ee/ronnieatokpodcast)  
-Weekly conversations about design, technology, and visual storytelling
-
-📹 [YouTube Channel](https://youtube.com/ronnieatok)  
-Tutorials on web development and photography techniques
-
-## 📊 GitHub Stats
-
+<!-- Dynamic Header with Profile Photo -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronnieatok&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnieatok&layout=compact&theme=radical" />
+  <a href="https://ronnieatok.netlify.app">
+    <img src="https://media.licdn.com/dms/image/D4E03AQH5X7q8xJY8Cg/profile-displayphoto-shrink_800_800/0/123456789" width="220" style="border-radius: 50%; border: 4px solid #FF7F50; box-shadow: 0 6px 12px rgba(0,0,0,0.15);"/>
+  </a>
+  <h1>👋 Ronnie Atok</h1>
+  <p>
+    <strong>Creative Technologist | Visual Storyteller</strong><br>
+    <span>📍 Nairobi, Kenya | 🎯 Building digital experiences at the intersection of code and design</span>
+  </p>
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=500&lines=Full-stack+Developer;Award-winning+Photographer;Tech+Content+Creator;Open+Source+Contributor)
 </div>
 
-## 📫 Let's Connect
+---
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://ronnieatok.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronnieatok)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ronnieatok)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ronnieatok)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ronnieatok@gmail.com)
+## 🛠️ Technical Arsenal
 
-## 💡 Currently Learning
+<div align="center">
 
-- Three.js for 3D web experiences
-- Advanced React patterns
-- AI integration in creative workflows
+### **Web Development**
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🎯 2025 Goals
+### **Creative Suite**
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-- Launch a developer education platform
-- Grow podcast to 50K+ listeners
-- Contribute to open source projects
-# ronnie.atok
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+### **Web Development Showcase**
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **[NS Luxe](https://github.com/ronnieatok/nsluxeshop)** | Luxury e-commerce platform | React, Node.js, MongoDB | [![Vercel](https://img.shields.io/badge/🚀_Live-000?style=flat&logo=vercel&logoColor=white)](https://nsluxeshop.vercel.app) |
+| **[Eliye Resort](https://github.com/ronnieatok/eliyeresort)** | Boutique hotel CMS | Next.js, Strapi | [![Demo](https://img.shields.io/badge/🌐_Demo-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://eliyeresort.com) |
+
+### **Creative Works**
+- **[Visual Alchemy](https://ronaldatok.netlify.app)** - Photography portfolio (Featured in NatGeo 2023)
+- **[Product Series](https://dribbble.com/ronnieatok)** - Commercial product shots (50+ clients)
+- **[AI Art Experiments](https://instagram.com/ronnieatok.ai)** - Generative art with Stable Diffusion
+
+---
+
+## 🎙️ Content Creation
+
+<div align="center" style="display: flex; gap: 10px; justify-content: center;">
+
+[![Podcast](https://custom-icon-badges.demolab.com/badge/🎙️_Podcast-FF5500?style=for-the-badge&logo=podcast)](https://linktr.ee/ronnieatokpodcast)
+[![YouTube](https://custom-icon-badges.demolab.com/badge/📹_YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/ronnieatok)
+[![Blog](https://custom-icon-badges.demolab.com/badge/✍️_Blog-0A66C2?style=for-the-badge&logo=dev.to)](https://dev.to/ronnieatok)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Detailed GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronnieatok&theme=radical)
+
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=ronnieatok&theme=radical&hide_border=true&background=0D1117)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnieatok&layout=compact&theme=radical&hide=html,css)
+
+</div>
+
+---
+
+## 🌱 Current Pursuits
+
+```text
+🛠️ Building: Developer education platform (Next.js + AI integration)
+📚 Learning: Three.js | React Native | Machine Learning
+📷 Shooting: "Urban Kenya" photography series
