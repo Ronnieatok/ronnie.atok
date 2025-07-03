@@ -38,7 +38,7 @@
 ### **Web Development Showcase**
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| **[NS Luxe](https://github.com/ronnieatok/nsluxeshop)** | Luxury e-commerce platform | React, Node.js, MongoDB | [![Vercel](https://img.shields.io/badge/🚀_Live-000?style=flat&logo=vercel&logoColor=white)](https://nsluxeshop.vercel.app) |
+| **[NS Luxe](https://nsluxeshop.com)** | Luxury e-commerce platform | React, Node.js, MongoDB | [![Vercel](https://img.shields.io/badge/🚀_Live-000?style=flat&logo=vercel&logoColor=white)](https://nsluxeshop.vercel.app) |
 | **[Eliye Resort](https://github.com/ronnieatok/eliyeresort)** | Boutique hotel CMS | Next.js, Strapi | [![Demo](https://img.shields.io/badge/🌐_Demo-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://eliyeresort.com) |
 
 ### **Creative Works**
