@@ -1,7 +1,7 @@
 <!-- Dynamic Header with Profile Photo -->
 <div align="center">
   <a href="https://ronnieatok.netlify.app">
-    <img src="https://media.licdn.com/dms/image/D4E03AQH5X7q8xJY8Cg/profile-displayphoto-shrink_800_800/0/123456789" width="220" style="border-radius: 50%; border: 4px solid #FF7F50; box-shadow: 0 6px 12px rgba(0,0,0,0.15);"/>
+    <img src="https://https://ibb.co/5XLhmCWx" width="220" style="border-radius: 50%; border: 4px solid #FF7F50; box-shadow: 0 6px 12px rgba(0,0,0,0.15);"/>
   </a>
   <h1>👋 Ronnie Atok</h1>
   <p>
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 ### **Creative Works**
 - **[Visual Alchemy](https://ronnieatok.myportfolio.com)** - Photography portfolio (Featured in NatGeo 2023)
 - **[Product Series](https://dribbble.com/ronnieatok)** - Commercial product shots (50+ clients)
-- **[AI Art Experiments](https://instagram.com/ronnieatok.ai)** - Generative art with Stable Diffusion
+- **[AI Art Experiments](https://instagram.com/ronnieatok.com)** - Generative art with Stable Diffusion
 
 ---
 
