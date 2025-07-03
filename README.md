@@ -1,7 +1,7 @@
 <!-- Dynamic Header with Profile Photo -->
 <div align="center">
   <a href="https://ronnieatok.netlify.app">
-    <img src="https://i.ibb.co/5XLhmCW/profile-pic.jpg" width="220" style="border-radius: 50%; border: 4px solid #FF7F50; box-shadow: 0 8px 24px rgba(255,127,80,0.2);" alt="Ronnie Atok Profile Photo"/>
+ <img src="https://i.ibb.co/5XLhmCW/profile-pic.jpg" width="220" style="border-radius: 50%; border: 4px solid #FF7F50; box-shadow: 0 8px 24px rgba(255,127,80,0.2);" alt="Ronnie Atok Profile Photo">
   </a>
   <h1>👋 Ronnie Atok</h1>
   <p>
