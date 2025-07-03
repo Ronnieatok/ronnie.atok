@@ -1,81 +1,83 @@
-<!-- Dynamic Header with Profile Photo -->
+<!-- PROFILE HEADER -->
 <div align="center">
   <a href="https://ronnieatok.netlify.app">
-    <img src="https://media.licdn.com/dms/image/D4E03AQH5X7q8xJY8Cg/profile-displayphoto-shrink_800_800/0/123456789" width="220" style="border-radius: 50%; border: 4px solid #FF7F50; box-shadow: 0 6px 12px rgba(0,0,0,0.15);"/>
+    <img src="https://ibb.co/5XLhmCWx" width="220" style="border-radius: 50%; border: 4px solid #FF7F50; box-shadow: 0 8px 24px rgba(255,127,80,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='rotate(2deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
   </a>
-  <h1>👋 Ronnie Atok</h1>
-  <p>
-    <strong>Creative Technologist | Visual Storyteller</strong><br>
-    <span>📍 Nairobi, Kenya | 🎯 Building digital experiences at the intersection of code and design</span>
+  
+  <h1 style="margin: 12px 0 6px 0;">Ronnie Atok</h1>
+  
+  <p style="font-size: 1.1em; max-width: 680px; margin: 0 auto 16px auto;">
+    Building immersive digital experiences at the intersection of <strong>code</strong>, <strong>design</strong>, and <strong>storytelling</strong>.
   </p>
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=500&lines=Full-stack+Developer;Award-winning+Photographer;Tech+Content+Creator;Open+Source+Contributor)
+  <!-- Dynamic Typing Effect -->
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=FF7F50&center=true&width=500&lines=Full-stack+Developer;Creative+Technologist;Photographer;Open+Source+Contributor" alt="Roles" />
+  </div>
+  
+  <!-- Location & Status -->
+  <p>
+    <img src="https://img.shields.io/badge/Nairobi-Kenya-FF7F50?style=flat&logo=location-dot&logoColor=white" alt="Location"/>
+    <img src="https://img.shields.io/badge/Status-Available_for_work-2ECC71?style=flat&logo=circle&logoColor=white" alt="Status"/>
+  </p>
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠 Technical Stack
 
-<div align="center">
+<div align="center" style="margin: 28px 0;">
+
+### **Core Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### **Design & Media**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Creative Suite](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Featured Work
 
 ### **Web Development**
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; margin: 24px 0;">
 
-### **Creative Suite**
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+[![NS Luxe Shop](https://github-readme-stats.vercel.app/api/pin/?username=ronnieatok&repo=nsluxeshop&theme=radical&show_owner=true)](https://github.com/ronnieatok/nsluxeshop)
+[![Eliye Resort](https://github-readme-stats.vercel.app/api/pin/?username=ronnieatok&repo=eliyeresort&theme=radical&show_owner=true)](https://github.com/ronnieatok/eliyeresort)
+
+</div>
+
+### **Creative Projects**
+- **[Visual Alchemy](https://ronaldatok.netlify.app)** - Award-winning photography collection
+- **[AI Art Gallery](https://instagram.com/ronnieatok.com)** - Generative art experiments
+- **[Product Studio](https://dribbble.com/ronnieatok)** - Commercial photography work
+
+---
+
+## 📈 GitHub Insights
+
+<div align="center" style="margin: 32px 0;">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ronnieatok&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
+
+<div style="display: flex; justify-content: center; gap: 16px; margin-top: 24px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronnieatok&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnieatok&layout=compact&theme=radical&hide=html,css" />
+</div>
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
-
-### **Web Development Showcase**
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **[NS Luxe](https://github.com/ronnieatok/nsluxeshop)** | Luxury e-commerce platform | React, Node.js, MongoDB | [![Vercel](https://img.shields.io/badge/🚀_Live-000?style=flat&logo=vercel&logoColor=white)](https://nsluxeshop.vercel.app) |
-| **[Eliye Resort](https://github.com/ronnieatok/eliyeresort)** | Boutique hotel CMS | Next.js, Strapi | [![Demo](https://img.shields.io/badge/🌐_Demo-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://eliyeresort.com) |
-
-### **Creative Works**
-- **[Visual Alchemy](https://ronaldatok.netlify.app)** - Photography portfolio (Featured in NatGeo 2023)
-- **[Product Series](https://dribbble.com/ronnieatok)** - Commercial product shots (50+ clients)
-- **[AI Art Experiments](https://instagram.com/ronnieatok.ai)** - Generative art with Stable Diffusion
-
----
-
-## 🎙️ Content Creation
-
-<div align="center" style="display: flex; gap: 10px; justify-content: center;">
-
-[![Podcast](https://custom-icon-badges.demolab.com/badge/🎙️_Podcast-FF5500?style=for-the-badge&logo=podcast)](https://linktr.ee/ronnieatokpodcast)
-[![YouTube](https://custom-icon-badges.demolab.com/badge/📹_YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/ronnieatok)
-[![Blog](https://custom-icon-badges.demolab.com/badge/✍️_Blog-0A66C2?style=for-the-badge&logo=dev.to)](https://dev.to/ronnieatok)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Detailed GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronnieatok&theme=radical)
-
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=ronnieatok&theme=radical&hide_border=true&background=0D1117)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnieatok&layout=compact&theme=radical&hide=html,css)
-
-</div>
-
----
-
-## 🌱 Current Pursuits
+## 🌱 Current Focus
 
 ```text
-🛠️ Building: Developer education platform (Next.js + AI integration)
-📚 Learning: Three.js | React Native | Machine Learning
-📷 Shooting: "Urban Kenya" photography series
+🛠  Building: Developer education platform (Next.js + AI)
+📚 Learning: Three.js animations | Machine Learning basics
+📷 Creating: "Nairobi Nights" photo series
