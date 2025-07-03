@@ -1,11 +1,11 @@
 <!-- Dynamic Header with Profile Photo -->
 <div align="center">
   <a href="https://ronnieatok.netlify.app">
-    <img src="https://https://ibb.co/5XLhmCWx"/>
+    <img src="https://i.ibb.co/5XLhmCW/profile-pic.jpg" width="220" style="border-radius: 50%; border: 4px solid #FF7F50; box-shadow: 0 8px 24px rgba(255,127,80,0.2);" alt="Ronnie Atok Profile Photo"/>
   </a>
   <h1>👋 Ronnie Atok</h1>
   <p>
-    <strong>Front-End Developer | Photograher | Content Creator</strong><br>
+    <strong>Front-End Developer | Photographer | Content Creator</strong><br>
     <span>📍 Nairobi, Kenya | 🎯 Building digital experiences at the intersection of code and design</span>
   </p>
   
@@ -41,18 +41,18 @@
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
 | **[NS Luxe](https://nsluxeshop.com)** | Luxury e-commerce platform | React, Node.js, MongoDB | [![Vercel](https://img.shields.io/badge/🚀_Live-000?style=flat&logo=vercel&logoColor=white)](https://nsluxeshop.com) |
-| **[Eliye Resort](https://github.com/ronnieatok/eliyeresort)** | Boutique hotel CMS | Next.js, Strapi | [![Demo](https://img.shields.io/badge/🌐_Demo-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://eliyeresort.c) |
+| **[Eliye Resort](https://github.com/ronnieatok/eliyeresort)** | Boutique hotel CMS | Next.js, Strapi | [![Demo](https://img.shields.io/badge/🌐_Demo-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://eliyeresort.com) |
 
 ### **Creative Works**
 - **[Visual Alchemy](https://ronnieatok.myportfolio.com)** - Photography portfolio (Featured in NatGeo 2023)
 - **[Product Series](https://dribbble.com/ronnieatok)** - Commercial product shots (50+ clients)
-- **[AI Art Experiments](https://instagram.com/ronnieatok.com)** - Generative art with Stable Diffusion
+- **[AI Art Experiments](https://instagram.com/ronnieatok)** - Generative art with Stable Diffusion
 
 ---
 
 ## 🎙️ Content Creation
 
-<div align="center" style="display: flex; gap: 10px; justify-content: center;">
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
 
 [![Podcast](https://custom-icon-badges.demolab.com/badge/🎙️_Podcast-FF5500?style=for-the-badge&logo=podcast)](https://linktr.ee/ronnieatokpodcast)
 [![YouTube](https://custom-icon-badges.demolab.com/badge/📹_YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/ronnieatok)
@@ -68,8 +68,10 @@
 
 ![Detailed GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronnieatok&theme=radical)
 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=ronnieatok&theme=radical&hide_border=true&background=0D1117)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnieatok&layout=compact&theme=radical&hide=html,css)
+<div style="display: flex; justify-content: center; gap: 16px; margin-top: 16px; flex-wrap: wrap;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronnieatok&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnieatok&layout=compact&theme=radical&hide=html,css" alt="Top Languages"/>
+</div>
 
 </div>
 
