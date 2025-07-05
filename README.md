@@ -1,7 +1,7 @@
 <!-- Dynamic Header with Profile Photo -->
 <div align="center">
   <a href="https://ronnieatok.netlify.app">
- <img src="" " alt="Ronnie Atok Profile Photo">
+ <img src="">
   </a>
   <h1>👋 Ronnie Atok</h1>
   <p>
